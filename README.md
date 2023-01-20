@@ -5,7 +5,7 @@ This application allows you to add your favorite memories. You can like, edit, a
 
 Please check out: https://memoriesapp-kekl.onrender.com/ 
 
-1. Git clone https://github.com/HectorLGarcia/MovieDatabase-Api.git
+1. Git clone https://github.com/HectorLGarcia/MernSocialMedia.git
 
 2. rm -rf .git to delete my metadata from the git.
 
